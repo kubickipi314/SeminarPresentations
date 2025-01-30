@@ -1,2 +1,2 @@
 # SeminarPresentations
-Graph theory and algorithmics presentation made in Ipe
+Graph theory and algorithmics presentations made in Ipe
